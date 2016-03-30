@@ -1,2 +1,4 @@
 # Resources-Master-List
-A master list of my favorite resources for easy reference
+A central place for my favorite resources
+
+
